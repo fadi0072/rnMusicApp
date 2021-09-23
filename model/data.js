@@ -1,9 +1,9 @@
 const songs = [
   {
-    title: 'Kala Rang',
-    artist: 'kala Bhai',
-    image: require('../assets/artwork/Rang.jpg'),
-    url: require('../assets/songs/Kala.mp3'),
+    title: 'Jo Tu Na Mila - Asim Azar',
+    artist: 'Asim Azhar',
+    image: require('../assets/artwork/Asim.jpg'),
+    url: require('../assets/songs/Asim.mp3'),
     id: 1,
     duration: 311,
   },
